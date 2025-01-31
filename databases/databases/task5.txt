@@ -1,0 +1,2 @@
+1 - string1_0 - string2_0
+3 - hello world - hello world
